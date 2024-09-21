@@ -1,63 +1,155 @@
 [
     {
-      "jobID": "001",
-      "title": "Backend Developer Intern",
-      "company": "PayME Fintech Solutions",
-      "location": "Remote",
-      "about_us": "PayME Fintech is a leading blockchain company...",
-      "skills": ["Go", "Node.js", "JavaScript", "REST API integration", "Problem-solving"],
-      "perks": ["Flexible working hours", "Competitive compensation"],
-      "apply": "job-application@paymefin.tech"
+    	"jobId": "1",
+        "title": "Backend Developer Intern",
+        "company": "PayME Fintech",
+        "location": "Remote",
+        "date": "21 sep 2024",
+        "about_us": "PayME Fintech is reshaping the financial world through innovative payment solutions. We are offering an exciting opportunity for a Backend Developer Intern to join our talented team.",
+        "role_overview": "You’ll assist in developing, maintaining, and optimizing our backend services. You will work with technologies like Node.js, Go, and JavaScript, and help integrate RESTful APIs to provide seamless experiences.",
+        "skills": [
+            "Node.js",
+            "Go",
+            "JavaScript",
+            "REST API Integration",
+            "Database Management",
+            "Problem Solving",
+            "Team Collaboration"
+        ],
+        "bonus_skills": "Understanding of blockchain technology.",
+        "perks": [
+            "Mentorship from experienced developers",
+            "Real-world experience in fintech",
+            "Remote work"
+        ]
     },
     {
-      "jobID": "002",
-      "title": "Animator",
-      "company": "PayME Fintech Solutions",
-      "location": "Remote",
-      "about_us": "PayME Fintech is a leading blockchain company...",
-      "skills": ["Adobe Animate", "Toon Boom Harmony", "Autodesk Maya", "Animation principles"],
-      "perks": ["Collaborative work environment", "Creative freedom"],
-      "apply": "job-application@paymefin.tech"
+    	"jobId": "2",
+        "title": "Animator",
+        "company": "PayME Fintech",
+        "location": "Remote",
+        "date": "21 sep 2024",
+        "about_us": "PayME Fintech is looking for a talented Animator to bring creativity to life through captivating animations.",
+        "role_overview": "As an Animator, you'll collaborate with our creative team to develop animations that engage and inspire our audience.",
+        "skills": [
+            "Adobe Animate",
+            "Toon Boom Harmony",
+            "Autodesk Maya",
+            "Character Animation",
+            "2D/3D Animation",
+            "Storyboarding"
+        ],
+        "bonus_skills": "Strong storytelling and communication skills.",
+        "perks": [
+            "Work on exciting projects",
+            "Remote work",
+            "Collaborative team environment"
+        ]
     },
     {
-      "jobID": "003",
-      "title": "Automation Operative",
-      "company": "PayME Fintech Solutions",
-      "location": "Remote",
-      "about_us": "PayME Fintech is a leading blockchain company...",
-      "skills": ["Python", "Bash", "Selenium", "CI/CD"],
-      "perks": ["Hands-on with cutting-edge tech", "Skill growth"],
-      "apply": "job-application@paymefin.tech"
+    	"jobId": "3",
+        "title": "Automation Operative",
+        "company": "PayME Fintech",
+        "location": "Remote",
+        "date": "21 sep 2024",
+        "about_us": "PayME Fintech is seeking a skilled Automation Operative to enhance our blockchain operations through automation processes.",
+        "role_overview": "You'll develop and maintain automation scripts, improve efficiency, and collaborate with teams to streamline blockchain workflows.",
+        "skills": [
+            "Python",
+            "Bash",
+            "Kali Linux",
+            "Selenium",
+            "Ansible",
+            "CI/CD",
+            "Git"
+        ],
+        "bonus_skills": "Experience in blockchain environments.",
+        "perks": [
+            "Work on innovative blockchain projects",
+            "Remote work",
+            "Career growth opportunities"
+        ]
     },
     {
-      "jobID": "004",
-      "title": "Deployment Operative",
-      "company": "PayME Fintech Solutions",
-      "location": "Remote",
-      "about_us": "PayME Fintech is a leading blockchain company...",
-      "skills": ["Docker", "Jenkins", "AWS", "Node.js"],
-      "perks": ["Exciting blockchain projects", "Skill development"],
-      "apply": "job-application@paymefin.tech"
+    	"jobId": "4",
+        "title": "Deployment Operative",
+        "company": "PayME Fintech",
+        "location": "Remote",
+        "date": "21 sep 2024",
+        "about_us": "PayME Fintech is looking for a Deployment Operative to assist in deploying and maintaining our blockchain systems.",
+        "role_overview": "In this role, you'll ensure smooth deployment of blockchain updates, automate deployment processes, and troubleshoot issues in our blockchain environment.",
+        "skills": [
+            "Jenkins",
+            "Docker",
+            "Kubernetes",
+            "AWS",
+            "Azure",
+            "Google Cloud",
+            "Bash",
+            "Python",
+            "Node.js",
+            "Golang",
+            "Git",
+            "Networking"
+        ],
+        "bonus_skills": "Experience with blockchain deployment tools.",
+        "perks": [
+            "Innovative blockchain projects",
+            "Remote work",
+            "Collaborative environment"
+        ]
     },
     {
-      "jobID": "005",
-      "title": "Legal & Compliance Professional",
-      "company": "PayME Fintech Solutions",
-      "location": "Remote",
-      "about_us": "PayME Fintech is a leading blockchain company...",
-      "skills": ["Corporate law", "Risk management", "Indian law"],
-      "perks": ["Professional growth", "Regulatory challenges"],
-      "apply": "job-application@paymefin.tech"
+    	"jobId": "5",
+        "title": "Legal & Compliance Professional",
+        "company": "PayME Fintech",
+        "location": "Remote",
+        "date": "21 sep 2024",
+        "about_us": "PayME Fintech is seeking a dedicated Legal & Compliance Professional to manage our regulatory compliance and legal governance.",
+        "role_overview": "You'll oversee compliance activities, manage risk, and provide legal counsel to ensure adherence to Indian laws and corporate governance standards.",
+        "skills": [
+            "Corporate Law",
+            "Compliance Management",
+            "Contract Management",
+            "Risk Management",
+            "Indian Law",
+            "Ethics"
+        ],
+        "bonus_skills": "Experience with fintech legal requirements.",
+        "perks": [
+            "Work in a fast-paced fintech environment",
+            "Remote work",
+            "Opportunities for career growth"
+        ]
     },
     {
-      "jobID": "006",
-      "title": "Research & Development Specialist",
-      "company": "PayME Fintech Solutions",
-      "location": "Remote",
-      "about_us": "PayME Fintech is a leading blockchain company...",
-      "skills": ["Blockchain", "C++", "Solidity", "AWS"],
-      "perks": ["Innovative projects", "Career advancement"],
-      "apply": "job-application@paymefin.tech"
+    	"jobId": "6",
+        "title": "Research & Development Specialist",
+        "company": "PayME Fintech",
+        "location": "Remote",
+        "date": "21 sep 2024",
+        "about_us": "PayME Fintech is looking for a Research & Development Specialist to lead innovative projects in the blockchain and fintech space.",
+        "role_overview": "You will develop cutting-edge products, analyze current offerings, and conduct experiments to drive innovation. Collaborate with cross-functional teams to align R&D efforts with organizational goals.",
+        "skills": [
+            "C++",
+            "Python",
+            "JavaScript",
+            "Solidity",
+            "Golang",
+            "Node.js",
+            "Blockchain Concepts",
+            "AWS",
+            "AWS Lambda",
+            "Data Analysis",
+            "Project Management"
+        ],
+        "bonus_skills": "Experience with decentralized applications.",
+        "perks": [
+            "Lead innovative projects",
+            "Remote work",
+            "Collaborative team"
+        ]
     }
-  ]
-  
+]
+
+
