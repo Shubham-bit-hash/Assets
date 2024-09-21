@@ -155,7 +155,37 @@
             "Remote work",
             "Collaborative team"
         ]
+    },
+    {
+    	"jobId": "7",
+        "title": "Development Specialist",
+        "company": "PayME Fintech",
+        "location": "Remote",
+        "date": "21-9-2024",
+        "salary": "not mentioned",
+        "about_us": "PayME Fintech is looking for a Research & Development Specialist to lead innovative projects in the blockchain and fintech space.",
+        "role_overview": "You will develop cutting-edge products, analyze current offerings, and conduct experiments to drive innovation. Collaborate with cross-functional teams to align R&D efforts with organizational goals.",
+        "skills": [
+            "C++",
+            "Python",
+            "JavaScript",
+            "Solidity",
+            "Golang",
+            "Node.js",
+            "Blockchain Concepts",
+            "AWS",
+            "AWS Lambda",
+            "Data Analysis",
+            "Project Management"
+        ],
+        "bonus_skills": "Experience with decentralized applications.",
+        "perks": [
+            "Lead innovative projects",
+            "Remote work",
+            "Collaborative team"
+        ]
     }
+    
 ]
 
 
