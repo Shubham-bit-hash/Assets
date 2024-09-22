@@ -6,16 +6,14 @@
         "location": "Remote",
         "date": "21-9-2024",
         "salary": "not mentioned",
-        "about_us": "PayME Fintech is reshaping the financial world through innovative payment solutions. We are offering an exciting opportunity for a Backend Developer Intern to join our talented team.",
-        "role_overview": "You’ll assist in developing, maintaining, and optimizing our backend services. You will work with technologies like Node.js, Go, and JavaScript, and help integrate RESTful APIs to provide seamless experiences.",
+        "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
+        "role_overview": "We're seeking a Backend Developer Intern skilled in Go, Node.js, JavaScript, and REST API integration. You'll help build scalable backend services, integrate APIs, and contribute to our innovative payment systems..",
         "skills": [
-            "Node.js",
-            "Go",
-            "JavaScript",
-            "REST API Integration",
-            "Database Management",
-            "Problem Solving",
-            "Team Collaboration"
+            "Go & Node.js: Build microservices and server-side apps.",
+            "JavaScript: Strong grasp of ES6+ and async programming.",
+            "REST API: Design and integrate APIs with a focus on scalability and security.",
+            "Database Knowledge: Basic understanding of SQL/NoSQL.",
+            "Version Control: Familiar with Git."
         ],
         "bonus_skills": "Understanding of blockchain technology.",
         "perks": [
@@ -31,7 +29,7 @@
         "location": "Remote",
         "date": "21-9-2024",
         "salary": "not mentioned",
-        "about_us": "PayME Fintech is looking for a talented Animator to bring creativity to life through captivating animations.",
+        "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities..",
         "role_overview": "As an Animator, you'll collaborate with our creative team to develop animations that engage and inspire our audience.",
         "skills": [
             "Adobe Animate",
@@ -55,7 +53,7 @@
         "location": "Remote",
         "date": "21-9-2024",
         "salary": "not mentioned",
-        "about_us": "PayME Fintech is seeking a skilled Automation Operative to enhance our blockchain operations through automation processes.",
+        "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
         "role_overview": "You'll develop and maintain automation scripts, improve efficiency, and collaborate with teams to streamline blockchain workflows.",
         "skills": [
             "Python",
@@ -80,7 +78,7 @@
         "location": "Remote",
         "date": "21-9-2024",
         "salary": "not mentioned",
-        "about_us": "PayME Fintech is looking for a Deployment Operative to assist in deploying and maintaining our blockchain systems.",
+        "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
         "role_overview": "In this role, you'll ensure smooth deployment of blockchain updates, automate deployment processes, and troubleshoot issues in our blockchain environment.",
         "skills": [
             "Jenkins",
@@ -110,7 +108,7 @@
         "location": "Remote",
         "salary": "not mentioned",
         "date": "21-9-2024",
-        "about_us": "PayME Fintech is seeking a dedicated Legal & Compliance Professional to manage our regulatory compliance and legal governance.",
+        "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
         "role_overview": "You'll oversee compliance activities, manage risk, and provide legal counsel to ensure adherence to Indian laws and corporate governance standards.",
         "skills": [
             "Corporate Law",
@@ -134,36 +132,7 @@
         "location": "Remote",
         "date": "21-9-2024",
         "salary": "not mentioned",
-        "about_us": "PayME Fintech is looking for a Research & Development Specialist to lead innovative projects in the blockchain and fintech space.",
-        "role_overview": "You will develop cutting-edge products, analyze current offerings, and conduct experiments to drive innovation. Collaborate with cross-functional teams to align R&D efforts with organizational goals.",
-        "skills": [
-            "C++",
-            "Python",
-            "JavaScript",
-            "Solidity",
-            "Golang",
-            "Node.js",
-            "Blockchain Concepts",
-            "AWS",
-            "AWS Lambda",
-            "Data Analysis",
-            "Project Management"
-        ],
-        "bonus_skills": "Experience with decentralized applications.",
-        "perks": [
-            "Lead innovative projects",
-            "Remote work",
-            "Collaborative team"
-        ]
-    },
-    {
-    	"jobId": "7",
-        "title": "Development Specialist",
-        "company": "PayME Fintech",
-        "location": "Remote",
-        "date": "21-9-2024",
-        "salary": "not mentioned",
-        "about_us": "PayME Fintech is looking for a Research & Development Specialist to lead innovative projects in the blockchain and fintech space.",
+        "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
         "role_overview": "You will develop cutting-edge products, analyze current offerings, and conduct experiments to drive innovation. Collaborate with cross-functional teams to align R&D efforts with organizational goals.",
         "skills": [
             "C++",
@@ -185,6 +154,7 @@
             "Collaborative team"
         ]
     }
+    
     
 ]
 
