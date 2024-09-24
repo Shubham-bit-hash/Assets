@@ -177,69 +177,7 @@
             "Remote work",
             "Collaborative team"
         ]
-    },
-    {
-        "jobId": "7",
-        "title": "Frontend Developer Intern",
-        "type": "Internship",
-        "company": "PayME Fintech",
-        "location": "Remote",
-        "date": "21-9-2024",
-        "salary": "not mentioned",
-        "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
-        "role_overview": "We're seeking a Frontend Developer Intern skilled in React.js, JavaScript, HTML, CSS, and REST API integration. You'll help build user-friendly interfaces, optimize frontend performance, and contribute to our innovative payment systems.",
-        "skills": [
-            "React.js: Proficient in building modern web applications using React.",
-            "JavaScript: Strong grasp of ES6+ and async programming.",
-            "HTML & CSS: Solid understanding of responsive design and web accessibility.",
-            "REST API: Experience in consuming and integrating APIs into frontend apps.",
-            "Version Control: Familiar with Git."
-        ],
-        "bonus_skills": [
-            "Understanding of blockchain technology.",
-            "Experience with frontend build tools (Webpack, Babel).",
-            "Knowledge of UI/UX design principles.",
-            "Familiarity with testing frameworks like Jest or Cypress."
-        ],
-        "perks": [
-            "Mentorship from experienced developers",
-            "Real-world experience in fintech",
-            "Flexible working hours and remote work opportunities.",
-            "Remote work"
-        ]
-    },
-    {
-        "jobId": "8",
-        "title": "Intern",
-        "type": "Internship",
-        "company": "PayME Fintech",
-        "location": "Remote",
-        "date": "21-9-2024",
-        "salary": "not mentioned",
-        "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
-        "role_overview": "We're seeking a Frontend Developer Intern skilled in React.js, JavaScript, HTML, CSS, and REST API integration. You'll help build user-friendly interfaces, optimize frontend performance, and contribute to our innovative payment systems.",
-        "skills": [
-            "React.js: Proficient in building modern web applications using React.",
-            "JavaScript: Strong grasp of ES6+ and async programming.",
-            "HTML & CSS: Solid understanding of responsive design and web accessibility.",
-            "REST API: Experience in consuming and integrating APIs into frontend apps.",
-            "Version Control: Familiar with Git."
-        ],
-        "bonus_skills": [
-            "Understanding of blockchain technology.",
-            "Experience with frontend build tools (Webpack, Babel).",
-            "Knowledge of UI/UX design principles.",
-            "Familiarity with testing frameworks like Jest or Cypress."
-        ],
-        "perks": [
-            "Mentorship from experienced developers",
-            "Real-world experience in fintech",
-            "Flexible working hours and remote work opportunities.",
-            "Remote work"
-        ]
     }
-    
-    
     
 ]
 
